@@ -1,0 +1,13 @@
+D:\Project-LTUD\QL_HD_NHAHANG\bin\Debug\QL_HD_NHAHANG.exe.config
+D:\Project-LTUD\QL_HD_NHAHANG\bin\Debug\QL_HD_NHAHANG.exe
+D:\Project-LTUD\QL_HD_NHAHANG\bin\Debug\QL_HD_NHAHANG.pdb
+D:\Project-LTUD\QL_HD_NHAHANG\obj\Debug\QL_HD_NHAHANG.csproj.AssemblyReference.cache
+D:\Project-LTUD\QL_HD_NHAHANG\obj\Debug\QL_HD_NHAHANG.Form1.resources
+D:\Project-LTUD\QL_HD_NHAHANG\obj\Debug\QL_HD_NHAHANG.FormDatTiec.resources
+D:\Project-LTUD\QL_HD_NHAHANG\obj\Debug\QL_HD_NHAHANG.Properties.Resources.resources
+D:\Project-LTUD\QL_HD_NHAHANG\obj\Debug\QL_HD_NHAHANG.csproj.GenerateResource.cache
+D:\Project-LTUD\QL_HD_NHAHANG\obj\Debug\QL_HD_NHAHANG.csproj.CoreCompileInputs.cache
+D:\Project-LTUD\QL_HD_NHAHANG\obj\Debug\QL_HD_NHAHANG.exe
+D:\Project-LTUD\QL_HD_NHAHANG\obj\Debug\QL_HD_NHAHANG.pdb
+D:\Project-LTUD\QL_HD_NHAHANG\obj\Debug\QL_HD_NHAHANG.FormXuatPDT.resources
+D:\Project-LTUD\QL_HD_NHAHANG\obj\Debug\QL_HD_NHAHANG.FormTinhLuongNV.resources
